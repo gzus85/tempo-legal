@@ -132,12 +132,35 @@ do not hold your data on a server, retention is entirely under your control:
 delete individual items in the app, clear your history, or uninstall the app to
 remove its local data.
 
-## 9. Your choices
+## 9. Deleting your data
 
-- Delete any workout, session, custom exercise, or history entry from within
-  the app.
-- Clear all workout history from the app's settings.
-- Uninstall the app to remove its locally stored data from your device.
+Tempo ("the app", developer: Gerhard De Nazare) stores your content on your
+device, so **you** can delete it at any time. You do not need to contact us.
+
+**To delete specific items:** open the item in the app (a workout, session,
+custom exercise, or history entry) and use its delete option. The item is
+removed from your device immediately.
+
+**To clear your workout history:** go to **Settings** in the app and use the
+clear-history option. This removes all logged workouts from your device.
+
+**To delete everything:** **uninstall Tempo**. Uninstalling removes all of the
+app's locally stored data — every workout, session, custom exercise, history
+entry, and setting — from your device. Nothing is retained by us, because none
+of it was ever stored on our servers.
+
+**What is deleted vs. kept:**
+- **Deleted:** all on-device content listed above, removed as soon as you delete
+  it in the app or uninstall. We keep **no** copy, because this data is never
+  sent to us (there is no server-side retention of your content).
+- **Kept (by Google / our billing provider, not by us):** your record of the
+  one-time "Tempo Pro" purchase is held by Google Play and our billing provider
+  (RevenueCat) so the purchase can be restored. This is standard purchase-record
+  retention and is governed by their policies (see Section 6). To ask about
+  purchase-record deletion, contact Google Play support, or email us at the
+  address in Section 11 and we will help.
+
+If you have any trouble deleting your data, email **gerharddenazare@gmail.com**.
 
 ## 10. Changes to this policy
 
